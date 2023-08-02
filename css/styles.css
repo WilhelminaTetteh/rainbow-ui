@@ -1,0 +1,116 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav {
+	padding: 16px 185px;
+}
+
+.heading {
+	font-size: 48px;
+}
+
+.appstore-btn {
+	color: #383c41;
+	text-align: center;
+	font-family: Segoe UI;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 27px;
+	border-radius: 4.8px;
+	border: 1px solid #fff;
+	background: #fff;
+	box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.dots {
+	width: 200px;
+	height: 143px;
+}
+.hero-images {
+	margin-top: 100px;
+}
+.phones {
+	z-index: -1;
+}
+.ipone {
+	width: 298px;
+	height: 620px;
+	border-radius: 30px;
+	background: #fff;
+	box-shadow: 0px 10px 20px 0px rgba(0, 21, 64, 0.05),
+		0px 2px 6px 0px rgba(0, 21, 64, 0.14),
+		0px -5px 20px 0px rgba(173, 186, 204, 0.25) inset,
+		0px 4px 7px 1px #fff inset;
+}
+.speaker-camera {
+	margin: 30px 0 32px 95px;
+}
+.camera {
+	width: 5px;
+	height: 5px;
+	border-radius: 2.5px;
+	background: linear-gradient(180deg, #e7eaf0 0%, #fff 100%);
+}
+.speaker {
+	width: 58px;
+	height: 5px;
+	border-radius: 6px;
+	background: linear-gradient(180deg, #e7eaf0 0%, #fff 100%);
+}
+.screen {
+	width: 274px;
+	height: 487.11px;
+	margin: 0 auto;
+}
+.ipone-2 {
+	z-index: 4;
+	left: 150px;
+	bottom: 20px;
+}
+.design {
+	padding: 160px 150px;
+	margin-top: -120px;
+}
+.design-info {
+	width: 475px;
+	height: 216px;
+	padding: 0 auto;
+}
+.design-info > h2 {
+	font-size: 32px;
+	font-weight: 300;
+	line-height: 40px;
+}
+.design-info > p {
+	line-height: 28px;
+}
+.design-image {
+	height: 476.7px;
+	max-width: 635px;
+}
+.clients,
+.download-section {
+	padding: 160px 150px 176px 150px;
+}
+.testimonial {
+	padding: 48px 150px 0 150px;
+}
+.quotes {
+	color: #f4f5f7;
+	font-family: Georgia, sans-serif;
+	font-size: 129.6px;
+	font-style: italic;
+	font-weight: 700;
+	line-height: 226.8px;
+	top: 40px;
+	left: -111px;
+}
+footer {
+	padding: 48px 165px;
+}
+.socials-items {
+	width: 20px;
+	height: 20px;
+	margin-left: 16px;
+}
